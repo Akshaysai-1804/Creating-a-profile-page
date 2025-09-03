@@ -2,6 +2,7 @@
 # ${\color{blue} Creating \a\ webpage \ using\ HTML\ CSS\ and \ Javascript} $
 
 Web Page for Personal Profile
+
 📌 1. Objective
 The objective of this project is to create a basic and visually appealing profile page that includes:
 
