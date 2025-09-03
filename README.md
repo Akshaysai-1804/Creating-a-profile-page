@@ -1,6 +1,3 @@
-# Creating-a-web-page using HTML,CSS and Javascript 
-# ${\color{blue} Creating \a\ webpage \ using\ HTML\ CSS\ and \ Javascript} $
-
 Web Page for Personal Profile
 
 📌 1. Objective
